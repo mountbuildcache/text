@@ -1,0 +1,64 @@
+
+load poem
+  list
+    line <ꦈꦠꦮꦶꦲꦶꦏꦶꦪꦲꦶꦏꦸꦫꦸꦥꦏꦁꦢꦶꦧꦺꦤ꧀ꦠꦸꦏ꧀ꦏꦫꦺꦴꦠꦸꦠꦸꦏ꧀ꦭꦤ꧀ꦲꦶꦭꦠ꧀ꦩꦸ|
+    line <ꦧꦒꦶꦏꦏꦺꦫꦒꦩꦸꦝꦸꦩꦠꦺꦁꦠꦺꦭꦒ|
+    line <ꦈꦠꦮꦶꦲꦶꦏꦶꦏꦁꦢꦢꦶꦱꦶꦩ꧀ꦧꦺꦴꦭ꧀ꦏꦁꦔ꧀ꦒꦩ꧀ꦧꦂꦏꦏꦺꦒꦺꦤ꧀ꦓꦶꦔꦺꦱꦸꦲꦫ|
+    line <ꦑꦁꦔ꧀ꦒꦧꦸꦁꦏꦏꦺꦩꦫꦁꦲꦶꦫꦩꦒꦺꦧꦸꦏꦤ꧀ꦒꦺꦤ꧀ꦓꦁ|
+    line <ꦲꦺꦁꦏꦺꦴꦲꦮꦏ꧀ꦩꦸꦧꦏꦭ꧀ꦔꦺꦂꦠꦶꦪꦺꦤ꧀ꦲꦶꦁꦱꦧꦺꦤ꧀ꦥ꧀ꦭꦶꦤ꧀ꦠꦶꦫꦤ꧀ꦭꦤ꧀ꦥꦸꦠꦺꦫꦤ꧀ꦏꦸꦮꦶꦔꦺꦥꦱꦶ|
+  list
+    line <ꦈꦠꦮꦶꦲꦶꦏꦶꦔ꧀ꦒꦧꦸꦁꦏꦏꦺꦱꦺꦏꦧꦺꦲꦤꦺꦩꦫꦁꦲꦶꦫꦩꦤꦺꦲꦸꦏꦫ|
+    line <ꦑꦁꦔꦸꦧꦃꦏꦺꦥꦶꦤ꧀ꦠꦺꦫꦤꦺꦲꦮꦏ꧀ꦓꦺꦮꦺꦱꦏ꧀ꦤꦭꦶꦏꦤꦺꦝꦺꦮꦺꦢꦺꦴꦭꦤꦤ꧀ꦮꦠꦸ|
+    line <ꦈꦠꦮꦶꦲꦶꦏꦶꦪꦲꦶꦏꦸꦲꦸꦏꦫꦏꦁꦩ꧀ꦧꦺꦢꦏꦏꦺꦏꦫꦺꦴꦲꦁꦏꦱ|
+    line <ꦟ꧀ꦒ꧀ꦒꦩ꧀ꦧꦂꦏꦏꦺꦱꦺꦏꦧꦺꦲꦤꦺꦩꦲꦸꦏꦤ꧀ꦛꦶꦲꦠꦶꦲꦠꦶꦧꦏꦭ꧀ꦔ꧀ꦒꦮꦏꦏꦺꦲꦮꦏ꧀ꦓꦺꦮꦺꦩꦫꦔꦱꦭ꧀|
+    line <ꦲꦺꦁꦏꦺꦴꦲꦮꦏ꧀ꦩꦸꦧꦏꦭ꧀ꦱꦶꦤꦲꦸꦏꦺꦥꦶꦪꦺꦕꦫꦤꦺꦔ꧀ꦒꦸꦤꦏꦏꦺꦏꦧꦺꦃꦩꦲꦸꦢꦢꦶꦠꦺꦩ꧀ꦧꦸꦁ|
+  list
+    line <ꦈꦠꦮꦶꦲꦶꦏꦶꦪꦲꦶꦏꦸꦒꦭꦸꦂꦏꦁꦩ꧀ꦧꦶꦁꦏꦲꦶꦲꦸꦏꦫꦱꦶꦁꦠꦺꦴꦏ꧀ꦲꦸꦕꦥ꧀ꦏꦺ|
+    line <ꦧꦒꦶꦏꦏꦺꦩꦫꦁꦭꦶꦪꦥꦸꦤ꧀ꦕꦏꦺꦫꦱꦥꦺꦤꦱꦫꦤ꧀ꦩꦸ|
+    line <ꦈꦠꦮꦶꦲꦶꦏꦶꦪꦲꦶꦏꦸꦲꦸꦏꦫꦏꦁꦔ꧀ꦒꦮꦱꦸꦲꦫꦩꦸꦲꦶꦁꦮꦺꦔꦶ|
+    line <ꦑꦁꦧꦶꦱꦔ꧀ꦒꦮꦕꦶꦠꦿꦤꦶꦁꦥꦺꦤ꧀ꦕꦶꦠꦿꦲꦤꦺꦥꦶꦏꦶꦫꦤ꧀|
+    line <ꦯꦲꦶꦏꦶꦲꦮꦏ꧀ꦩꦸꦢꦢꦶꦲꦃꦭꦶꦠꦺꦩ꧀ꦧꦁ꧈ꦱꦧꦤ꧀ꦗꦸꦫꦺꦧꦏꦭ꧀ꦲꦤꦲꦸꦤ꧀ꦓꦔꦤ꧀|
+  list
+    line <ꦈꦠꦮꦶꦲꦶꦏꦶꦪꦲꦶꦏꦸꦱꦸꦱꦸꦤꦤ꧀ꦏꦁꦔ꧀ꦒꦮꦺꦮꦂꦤꦱꦶꦤꦂꦭꦸꦮꦶꦃꦥꦸꦠꦶꦃ|
+    line <ꦑꦁꦔ꧀ꦒꦮꦺꦱꦶꦤꦂꦩꦲꦸꦧꦶꦱꦕꦺꦫꦶꦠꦧꦧꦒꦤ꧀ꦥꦺꦂꦏꦫꦏꦁꦭꦸꦮꦶꦃꦝꦸꦮꦸꦂ|
+    line <ꦈꦠꦮꦶꦲꦶꦏꦶꦪꦲꦶꦏꦸꦮꦶꦠ꧀ꦮꦶꦠꦤ꧀ꦏꦁꦲꦮꦏ꧀ꦓꦺꦮꦺꦧꦶꦱꦚꦺꦠꦏ꧀ꦕꦺꦫꦶꦠ|
+    line <ꦟ꧀ꦢꦺꦭꦺꦴꦏ꧀ꦲꦮꦏ꧀ꦓꦺꦮꦺꦭꦤ꧀ꦲꦁꦏꦱꦢꦢꦶꦲꦶꦠꦸꦔꦤ꧀ꦱꦶꦗꦶꦏꦁꦒꦺꦝꦺ|
+    line <ꦑꦸꦤ꧀ꦕꦶꦤꦺꦏꦁꦒꦺꦴꦔꦺꦭꦶꦁꦲꦺꦭꦶꦁꦪꦲꦶꦏꦸꦏꦤ꧀ꦛꦶꦏꦸꦭꦶꦤꦭꦤ꧀ꦏꦺꦱꦧꦫꦤ꧀|
+  list
+    line <ꦈꦠꦮꦶꦲꦶꦏꦶꦪꦲꦶꦏꦸꦗꦺꦗꦫꦶꦁꦏꦁꦔ꧀ꦒꦧꦸꦁꦏꦏꦺꦱꦺꦏꦧꦺꦲꦤꦺꦢꦢꦶꦱꦶꦗꦶ|
+    line <ꦟ꧀ꦒ꧀ꦒꦧꦸꦁꦏꦏꦺꦲꦶꦭ꧀ꦩꦸꦧꦫꦺꦁꦧꦫꦺꦁꦏꦺꦴꦪꦺꦴꦢꦺꦤꦺꦱꦿꦺꦔꦺꦔꦺꦭꦤ꧀ꦫꦺꦩ꧀ꦧꦸꦭꦤ꧀|
+    line <ꦈꦠꦮꦶꦲꦶꦏꦶꦪꦲꦶꦏꦸꦲꦱꦶꦭ꧀ꦲꦸꦠꦩꦏꦁꦢꦶꦲꦱꦶꦭ꧀ꦏꦏꦺꦝꦸꦩꦠꦺꦁꦨꦸꦩꦶ|
+    line <ꦟ꧀ꦒꦶꦱꦶꦥꦶꦏꦶꦫꦤ꧀ꦝꦸꦩꦠꦺꦁꦠꦺꦤꦒꦱꦏꦨꦺꦔꦮꦤ꧀ꦭꦤ꧀ꦡꦺꦒꦭ꧀|
+    line <ꦲꦺꦤ꧀ꦲꦮꦏ꧀ꦩꦸꦮꦶꦱ꧀ꦩ꧀ꦭꦏꦸꦱꦺꦲꦢꦺꦴꦃꦲꦶꦏꦶ꧈ꦩꦏꦲꦶꦏꦸꦲꦱꦶꦭ꧀ꦱꦏꦮꦠꦸꦏꦁꦠꦺꦴꦏ꧀ꦒꦸꦤꦏꦏꦺ|
+
+load poem
+  list
+    line <Utawi iki yaiku rupa kang dibentuk karo tutuk lan ilatmu.|
+    line <Mbagikake ragamu dhumateng telaga.|
+    line <Utawi iki kang dadi simbol kang nggambarkake gendhinge suara.|
+    line <Kang nggabungkake marang irama gebukan gendhang.|
+    line <Mengko awakmu bakal ngerti yen ing saben plintiran lan puteran kuwi ngepasi.|
+  list
+    line <Utawi iki nggabungkake sekabehane marang iramane ukara.|
+    line <Kang ngubah kepinterane awakdhewe saknalikane dhewe dolanan watu.|
+    line <Utawi iki yaiku ukara kang mbedakake karo angkasa.|
+    line <Nggambarkake sekabehane mau kanthi ati-ati bakal nggawakake awakdhewe marangasal.|
+    line <Mengko awakmu bakal sinau kepiye carane nggunakake kabeh mau dadi tembung.|
+  list
+    line <Utawi iki yaiku galur kang mbingkai ukara sing tok ucapke.|
+    line <Mbagikake marang liya puncake rasa penasaranmu.|
+    line <Utawi iki yaiku ukara kang nggawa suaramu ing wengi.|
+    line <Kang bisa nggawa citra ning pencitraane pikiran.|
+    line <Saiki awakmu dadi ahli tembang, sabanjure bakal ana undhangan.|
+  list
+    line <Utawi iki yaiku susunan kang nggawe warna sinar luwih putih.|
+    line <Kang nggawe sinar mau bisa cerita babagan perkara kang luwih dhuwur.|
+    line <Utawi iki yaiku wit-witan kang awakdhewe bisa nyetak cerita.|
+    line <Ndelok awakdhewe lan angkasa dadi itungan siji kang gedhe.|
+    line <Kuncine kanggo ngeling-eling yaiku kanthi kulina lan kesabaran.|
+  list
+    line <Utawi iki yaiku jejaring kang nggabungkake sekabehane dadi siji.|
+    line <Nggabungkake ilmu bareng-bareng koyo dene srengenge lan rembulan.|
+    line <Utawi iki yaiku hasil utama kang dihasilkake dhumateng Bumi.|
+    line <Ngisi pikiran dhumateng tenaga saka Bengawan lan Tegal.|
+    line <Yen awakmu wis mlaku seadoh iki, maka iku hasil saka watu kang tok gunakake.|

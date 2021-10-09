@@ -1,0 +1,32 @@
+
+load poem
+  list
+    line <Is iad sin na pàirtean a tha do bheul agus do theanga.|
+    line <A ’roinneadh thu fhèin ann an dòighean ùra don loch.|
+    line <Is iad sin na samhlaidhean a tha a ’riochdachadh pìosan fuaim.|
+    line <A ’tighinn còmhla ann an ruitheam mar a bhios an druma a’ bualadh.|
+    line <A dh ’aithghearr chì thu gu bheil gach tionndadh is tionndadh a’ freagairt.|
+  list
+    line <Is iad sin na daoine slàn a tha a ’ceangal nan tònaichean cainnt.|
+    line <Morphing ar fiosrachadh mar a bhios sinn a ’cluich le gach Clach.|
+    line <Is iad sin na faclan a tha sinn a ’dealachadh le àiteachan.|
+    line <Mìnich iad gu faiceallach gus am faigh sinn sìos gu na rudan bunaiteach.|
+    line <Chan fhada gus an ionnsaich thu mar a chleachdas tu iad ann an aithrisean.|
+  list
+    line <Is iad sin na snàithleanan a tha a ’frèamadh na tha thu a’ bruidhinn.|
+    line <A ’toirt stùc do dhaoine eile aig a’ gheòla a-staigh agad.|
+    line <Is iad sin na seantansan a bheir do ghuth a-steach air an oidhche.|
+    line <A ’gluasad an neo-fhaicsinneach ann an sùil na h-inntinn.|
+    line <A-nis tha thu nad mhaighstir cabadaich, an ath rud tha cuireadh.|
+  list
+    line <Is iad sin na structaran a tha a ’dèanamh an solas nas gile.|
+    line <Ga dhèanamh comasach conaltradh a dhèanamh mun àrd-ìre.|
+    line <Is iad sin na craobhan anns a bheil sinn a ’cumadh fiosrachadh.|
+    line <A ’faicinn sinn fhìn agus a’ chruinne-cè mar aon àireamhachadh mòr.|
+    line <Is e am prìomh rud ri chuimhneachadh pàtrain agus foighidinn.|
+  list
+    line <Is iad sin na lìonraidhean a tha a ’ceangal a h-uile càil gu aon.|
+    line <A ’ceangal eòlas ri chèile mar a’ ghealach agus a ’ghrian.|
+    line <Is iad sin am prìomh rud a tha an Talamh a ’toirt a-mach.|
+    line <A ’lìonadh a’ chuimhne le lùth bho Sruth is Achadh.|
+    line <Ma tha thu air a dhèanamh cho fada seo is e a ’Chlach a tha thu ag iarraidh.|

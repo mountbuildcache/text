@@ -1,0 +1,14 @@
+
+load poem
+  list
+    line :Vuorelta löydät kiven, joka pilveen kurkottaa.:
+    line :Kaikkialla maailmassa voit luonnon voimia tuntea.:
+    line :Pilvi on lähellä, voit nähdä, koskettaa, maistaa.:
+    line :Ja energiasi kiveen kanavoida.:
+    line :Vuori pitää muotonsa, kuin salattu kuula.:
+  list
+    line :Nyt hallitset kiveä, voit tarkkailla ja luoda.:
+    line :Se siirtää sinut pilveen, pitkä on matka.:
+    line :Luo mitä haluat maailman iloksi.:
+    line :Tai pidä se lähelläsi tueksi ja turvaksi.:
+    line :Kivi on avain, joka kaiken avaa.:

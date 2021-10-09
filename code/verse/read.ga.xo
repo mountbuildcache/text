@@ -1,0 +1,32 @@
+
+load poem
+  list
+    line <Seo h-iad na píosanna a chruthaíonn do bhéal is do theanga.|
+    line <Tú féin corraithe i mbealaí nua leis an uisce.|
+    line <Seo h-iad na siombailí a léiríonn blúire fuaime.|
+    line <Ag rince I damhsa amháin le rithim bualadh-druma.|
+    line <Go gairid feicfidh tú go n-oireann gach coirnín is casadh.|
+  list
+    line <Seo h-iad na huilí a nascann na toin cainte.|
+    line <Ag múnlú ár n-eolas nuair a himrímid le gach Cloch.|
+    line <Seo h-iad na focail a scarann ​​muid le spásanna.|
+    line <Iad a shainiú go cúramach chun go mbainfimid na buneilimintí amach.|
+    line <Agus go luath bhfoghlaimeoidh tú conas iad a úsáid i ráitis.|
+  list
+    line <Seo h-iad na snáitheanna a fhrámaíonn cibé a labhraíonn tú.|
+    line <Súil istigh do dhaoine eile ar do gheek i bhfolach.|
+    line <Seo iad na habairtí a cruthann do ghuth istoíche.|
+    line <An dofheicthe a scríobh i súil an duine.|
+    line <Anois is máistir den comhrá tú, is cuireadh é an rud chugat.|
+  list
+    line <Seo h-iad na struchtúir a dhéanann an solas níos gile.|
+    line <A dhéanamh indéanta cumarsáid a bheith againn faoin ardchumhacht.|
+    line <Seo iad na crainn ina mhúnlaímid faisnéis.|
+    line <Ag féachaint orainn féin agus an cruinne ar nós ríomh amháin mór.|
+    line <Is iad na rudaí is tábhachtaí le cuimhneamh ná patrúin is foighne.|
+  list
+    line <Seo h-iad na líonraí ag chumasc gach rud le chéile.|
+    line <Eolas a nascadh le chéile mar an ngealach is an ghrian.|
+    line <Seo h-iad na rudaí príomhúla a tháirgeann an Domhan.|
+    line <An chuimhne a líonadh le fuinneamh ó Abhainn is ó Pháirc.|
+    line <Má bhfuil tú linn chomh fada seo tá an Chloch agat faoi smacht.|
